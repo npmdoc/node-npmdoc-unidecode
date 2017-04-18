@@ -1,9 +1,14 @@
-# api documentation for  [unidecode (v0.1.8)](http://blog.fgribreau.com/2012/05/unidecode-for-javascript-nodejs.html)  [![npm package](https://img.shields.io/npm/v/npmdoc-unidecode.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-unidecode) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-unidecode.svg)](https://travis-ci.org/npmdoc/node-npmdoc-unidecode)
+# npmdoc-unidecode
+
+#### api documentation for  [unidecode (v0.1.8)](http://blog.fgribreau.com/2012/05/unidecode-for-javascript-nodejs.html)  [![npm package](https://img.shields.io/npm/v/npmdoc-unidecode.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-unidecode) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-unidecode.svg)](https://travis-ci.org/npmdoc/node-npmdoc-unidecode)
+
 #### ASCII transliterations of Unicode text
 
-[![NPM](https://nodei.co/npm/unidecode.png?downloads=true)](https://www.npmjs.com/package/unidecode)
+[![NPM](https://nodei.co/npm/unidecode.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/unidecode)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-unidecode/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-unidecode_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-unidecode/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-unidecode/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-unidecode/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-unidecode/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-unidecode/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-unidecode/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Francois-Guillaume Ribreau",
-        "email": "npm@fgribreau.com",
         "url": "http://fgribreau.com"
     },
     "bugs": {
@@ -54,13 +58,11 @@
     "main": "./unidecode",
     "maintainers": [
         {
-            "name": "fgribreau",
-            "email": "npm@fgribreau.com"
+            "name": "fgribreau"
         }
     ],
     "name": "unidecode",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/FGRibreau/node-unidecode.git"
@@ -72,16 +74,6 @@
     "version": "0.1.8"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module unidecode](#apidoc.module.unidecode)
-
-
-
-# <a name="apidoc.module.unidecode"></a>[module unidecode](#apidoc.module.unidecode)
 
 
 
